@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
+
+nav li{
+    font-family: "Rubik Distressed", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header nav ul li {
+    
+    display: inline-block;
+
+    border: 10px solid;
+    border-radius: 50px;
+
+    width: 241px;
+    height: 77px;
+
+    margin-right: 145px;
+    background-color: #f90303;
+
+}

@@ -6,6 +6,20 @@ nav li{
     font-style: normal;
 }
 
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 413px;
+
+    width: 100%;
+    height: 160px;
+
+    background-color: rgb(61, 61, 61);
+    border: 10px solid;
+
+}
+
 header nav ul li {
     
     display: inline-block;
@@ -19,4 +33,8 @@ header nav ul li {
     margin-right: 145px;
     background-color: #424242;
 
+}
+
+header nav ul li a {
+    text-decoration: none;
 }

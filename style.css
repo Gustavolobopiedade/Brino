@@ -70,7 +70,7 @@ main {
     border-radius: 50px;
     padding: 25px;
 }
-.dean1{
+.b1{
     display: flex;
     flex-flow: column;
     align-items: center;
@@ -84,13 +84,13 @@ main {
     padding: 15px;
 }
 
-.dean1 img {
+.b1 img {
     width: 138px;
     height: 137px;
     object-fit: cover;
 }
 
-.dean2{
+.b3{
     display: flex;
     flex-flow: column;
     align-items: center;
@@ -104,13 +104,13 @@ main {
     padding: 15px;
 }
 
-.dean2 img {
+.b3 img {
     width: 138px;
     height: 137px;
     object-fit: cover;
 }
 
-.dean3 {
+.b2 {
     width: 950px;
     height: 502px;
     background-color: var(--fundo-segundario);
@@ -118,7 +118,7 @@ main {
     border-radius: 268px;
 }
 
-.dean3 img {
+.b2 img {
     width: 100%;
     height: 100%;
     object-fit: cover;
